@@ -14,11 +14,11 @@ namespace Es.Udc.DotNet.CSharpTutorial
         /// <summary>
         /// Defines the entry point of the application.
         /// </summary>
-        public static void Main()
-        {
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
-        }
+        // public static void Main()
+        // {
+        //    Console.WriteLine("Hello World!");
+        //    Console.ReadLine();
+        // }
 
         #endregion
     }
