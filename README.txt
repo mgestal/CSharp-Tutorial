@@ -5,7 +5,7 @@ Uncomment the "Main" method in the example you want to execute and press CTRL+F5
 
 1. HelloWorld.cs
 2. TypesExample.cs
-3. Constructors (It's recommended to execute theses examples step-by-step (F11))
+3. Constructors (It's recommended to execute these examples step-by-step (F11))
       A.cs  
       B.cs
       SuperClass.cs
